@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=A5 Pin=R42-1
+Removed Pin From Net: NetName=A4 Pin=R43-1
+Removed Pin From Net: NetName=A5 Pin=R44-1
+Removed Pin From Net: NetName=A4 Pin=R45-1
+Change component parameters: Designator = "Q1"; Footprint = "SOT23"; UniqueID = "\VRNPYIJU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "P沟道场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "SMA"; UniqueID = "\TYHPPSFV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "SMA"; UniqueID = "\DBSHQHJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A4 Pin=R42-1
+Added Pin To Net: NetName=A5 Pin=R43-1
+Added Pin To Net: NetName=A4 Pin=R44-1
+Added Pin To Net: NetName=A5 Pin=R45-1
+Added Member To Class: ClassName=Qbot Member=Component R45 10KΩ (103) ±1%

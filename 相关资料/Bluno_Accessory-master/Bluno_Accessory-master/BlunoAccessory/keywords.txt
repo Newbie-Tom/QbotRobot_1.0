@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Bridge
+#######################################
+
+####################################### 
+# Class
+#######################################
+
+BlunoAccessory	 KEYWORD1	BlunoAccessory
+Buzzer	KEYWORD1	Buzzer
+Relay	KEYWORD1	Relay
+Joystick	KEYWORD1	Joystick
+Knob	KEYWORD1	Knob
+Rgb	KEYWORD1	Rgb
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+begin	KEYWORD2
+Reset	KEYWORD2
+SSD1306	KEYWORD2
+fill	KEYWORD2
+
+
+#######################################
+# Constants
+#######################################

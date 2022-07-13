@@ -1,0 +1,14 @@
+Added Component: Designator=S1(TSW SMD-3*6*2.5)
+Added Component: Designator=S2(TSW SMD-3*6*2.5)
+Added Component: Designator=S3(TSW SMD-3*6*2.5)
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=KEY1 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=STM32RST Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=KEY2 Pin=S3-2
+Added Member To Class: ClassName=Qbot Member=Component S1 SW_2
+Added Member To Class: ClassName=Qbot Member=Component S2 SW_2
+Added Member To Class: ClassName=Qbot Member=Component S3 SW_2
+Added Room: Name=Qbot2
+Added Room: Name=Qbot

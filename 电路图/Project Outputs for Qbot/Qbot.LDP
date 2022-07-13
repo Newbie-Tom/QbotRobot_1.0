@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\TOM\Desktop\Qbot迷你巡线机器人\电路图\Qbot.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=qbot-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=qbot-slotholes.txt|DrillLayers=gtl,gbl

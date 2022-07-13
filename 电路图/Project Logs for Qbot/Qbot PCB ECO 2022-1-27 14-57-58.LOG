@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Qbot2 Member=C27
+Removed Member From Class: ClassName=Qbot Member=J3
+Removed Member From Class: ClassName=Qbot2 Member=R17
+Added Member To Class: ClassName=Qbot Member=Component C22 0.1uF
+Added Member To Class: ClassName=Qbot Member=Component C26 0.1uF
+Added Member To Class: ClassName=Qbot Member=Component C28 22pF
+Added Member To Class: ClassName=Qbot2 Member=Component C29 100nF(104) 10% 50V
+Added Member To Class: ClassName=Qbot2 Member=Component C30 22uF(226) 10% 50V
+Added Member To Class: ClassName=Qbot Member=Component J2 SIP3
+Added Member To Class: ClassName=Qbot Member=Component R12 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R14 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R15 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R16 4K7次 (472) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R18 0R
+Added Member To Class: ClassName=Qbot Member=Component R19 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R21 330次 (331) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R23 330次 (331) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R25 75K次 (753) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R27 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R29 5.1K次 (512) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R31 5.1K次 (512) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R32 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R33 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R34 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R36 330次 (331) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R38 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R40 75K次 (753) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R41 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R42 5.1K次 (512) ㊣1%
+Added Member To Class: ClassName=Qbot Member=Component R44 10K次 (103) ㊣1%
+Added Member To Class: ClassName=Qbot2 Member=Component R46 0R
+Added Member To Class: ClassName=Qbot Member=Component S2 SW_2

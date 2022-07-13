@@ -1,0 +1,129 @@
+Altium Designer Pick and Place Locations
+C:\Users\TOM\Desktop\QbotÃÔÄãÑ²Ïß»úÆ÷ÈË\µçÂ·Í¼\Project Outputs for Qbot\Pick Place for Qbot.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/01/22
+Time:       19:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator  Comment                 Layer       Footprint                         Center-X(mm) Center-Y(mm) Rotation Description              
+R45         "10K¦¸ (103) ¡À1%"        BottomLayer LC-0805_R                         55.1000      48.4500      360      ÌùÆ¬µç×è                     
+Designator7 Comment                 BottomLayer MOTOR_SET_-_DUPLICATE1            14.7500      35.0999      0        ""                       
+S2          SW_2                    TopLayer    TSW_SMD-3*6*2.5                   0.6706       31.3400      360      ""                       
+S3          SW_2                    TopLayer    TSW_SMD-3*6*2.5                   0.7164       39.3099      360      ""                       
+S1          SW_2                    TopLayer    TSW_SMD-3*6*2.5                   0.6706       43.5900      360      ""                       
+R28         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         3.6600       27.8000      360      ÌùÆ¬µç×è                     
+C26         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         -0.3665      27.8000      180      ÌùÆ¬µçÈÝ                     
+Designator6 Comment                 BottomLayer MOTOR_SET_-_DUPLICATE1            42.3700      35.1000      180      ""                       
+R41         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         43.9500      19.3500      360      ÌùÆ¬µç×è                     
+J2          SIP3                    BottomLayer HDR2.54-WI-3P                     3.5200       48.7400      0        jointbar                 
+Y2          8MHz                    BottomLayer OSC_HC-49S                        28.1195      22.5932      360      Crystal                  
+Y1          32.768K                 BottomLayer OSC-3x10-WI-A                     37.2700      18.1230      270      ¾§Õñ                       
+USB         "TYPE-C 16PIN 2MD(073)" TopLayer    USB-C-SMD_TYPE-C-6PIN-2MD-073     15.4750      4.2249       0        ""                       
+U10         TB6612FNG,C,8,EL        TopLayer    SSOP24                            11.0864      34.0999      0        ""                       
+U9          WS2812B-B               TopLayer    LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B 6.2983       2.9256       0        ""                       
+U8          STM32F103C8T6           TopLayer    STM32F103C8T6_LQFP48              28.6000      32.4000      360      ""                       
+U7          WS2812B-B               TopLayer    LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B 53.3200      2.9399       0        ""                       
+U6          XC6206                  TopLayer    SOT-23_TL431                      49.2360      12.6471      90       ""                       
+U5          XC6206                  TopLayer    SOT-23_TL431                      49.2360      8.7373       90       ""                       
+U4          MPU-6050_C24112         BottomLayer QFN24                             53.3700      9.0500       180      ""                       
+U3          PW5300                  TopLayer    SOT23-6L                          2.9500       21.3999      90       ""                       
+U2          JDY-23A                 TopLayer    JDY-23A                           53.3551      37.0100      180      ""                       
+U1          CH340N                  TopLayer    SOP8                              16.7599      12.4189      90       ""                       
+SW1         SK12D07VG3              BottomLayer SW-TH_SK-12D07-VG3                -2.8000      9.3499       90       ""                       
+R17         100R                    BottomLayer LC-0805_R                         47.7800      5.7000       360      ÌùÆ¬µç×è                     
+R13         100R                    BottomLayer LC-0805_R                         59.0100      7.5500       360      ÌùÆ¬µç×è                     
+R11         100R                    BottomLayer LC-0805_R                         59.0100      10.0500      360      ÌùÆ¬µç×è                     
+R46         0R                      TopLayer    LC-0805_R                         10.2719      28.3999      180      ""                       
+R44         "10K¦¸ (103) ¡À1%"        BottomLayer LC-0805_R                         34.0500      48.5600      90       ÌùÆ¬µç×è                     
+R43         "5.1K¦¸ (512) ¡À1%"       BottomLayer LC-0805_R                         48.4207      49.0793      135      ÌùÆ¬µç×è                     
+R42         "5.1K¦¸ (512) ¡À1%"       BottomLayer LC-0805_R                         36.5500      48.5600      90       ÌùÆ¬µç×è                     
+R40         "75K¦¸ (753) ¡À1%"        BottomLayer LC-0805_R                         43.7000      52.8500      270      ÌùÆ¬µç×è                     
+R39         "75K¦¸ (753) ¡À1%"        BottomLayer LC-0805_R                         36.5500      52.8500      270      ÌùÆ¬µç×è                     
+R38         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         43.9500      16.9500      0        ÌùÆ¬µç×è                     
+R37         "330¦¸ (331) ¡À1%"        BottomLayer LC-0805_R                         41.2000      52.8500      90       ÌùÆ¬µç×è                     
+R36         "330¦¸ (331) ¡À1%"        BottomLayer LC-0805_R                         34.1000      52.8500      90       ÌùÆ¬µç×è                     
+R35         1M                      TopLayer    LC-0805_R                         28.1374      20.5953      360      ""                       
+R34         "10K¦¸ (103) ¡À1%"        BottomLayer LC-0805_R                         27.4000      47.6000      90       ÌùÆ¬µç×è                     
+R33         "10K¦¸ (103) ¡À1%"        BottomLayer LC-0805_R                         19.8100      49.5500      180      ÌùÆ¬µç×è                     
+R32         "10K¦¸ (103) ¡À1%"        BottomLayer LC-0805_R                         10.0700      49.5500      180      ÌùÆ¬µç×è                     
+R31         "5.1K¦¸ (512) ¡À1%"       BottomLayer LC-0805_R                         29.8500      47.6000      90       ÌùÆ¬µç×è                     
+R30         "5.1K¦¸ (512) ¡À1%"       BottomLayer LC-0805_R                         23.7500      49.5500      360      ÌùÆ¬µç×è                     
+R29         "5.1K¦¸ (512) ¡À1%"       BottomLayer LC-0805_R                         13.9600      49.5500      360      ÌùÆ¬µç×è                     
+R27         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         -2.1000      34.7499      180      ÌùÆ¬µç×è                     
+R26         "75K¦¸ (753) ¡À1%"        BottomLayer LC-0805_R                         29.8500      52.8500      270      ÌùÆ¬µç×è                     
+R25         "75K¦¸ (753) ¡À1%"        BottomLayer LC-0805_R                         23.3833      52.8500      270      ÌùÆ¬µç×è                     
+R24         "75K¦¸ (753) ¡À1%"        BottomLayer LC-0805_R                         15.8500      52.8500      270      ÌùÆ¬µç×è                     
+R23         "330¦¸ (331) ¡À1%"        BottomLayer LC-0805_R                         27.3500      52.8500      90       ÌùÆ¬µç×è                     
+R22         "330¦¸ (331) ¡À1%"        BottomLayer LC-0805_R                         20.9000      52.8500      90       ÌùÆ¬µç×è                     
+R21         "330¦¸ (331) ¡À1%"        BottomLayer LC-0805_R                         13.4000      52.8500      90       ÌùÆ¬µç×è                     
+R20         "1K¦¸ (1001) ¡À1%"        TopLayer    LC-0805_R                         38.1700      9.3752       360      ÌùÆ¬µç×è                     
+R19         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         2.0383       34.7499      180      ÌùÆ¬µç×è                     
+R18         0R                      TopLayer    LC-0805_R                         21.8000      26.8000      360      ""                       
+R16         "4K7¦¸ (472) ¡À1%"        BottomLayer LC-0805_R                         54.3200      3.4500       270      ÌùÆ¬µç×è                     
+R15         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         9.4900       11.3499      180      ÌùÆ¬µç×è                     
+R14         "1K¦¸ (1001) ¡À1%"        TopLayer    LC-0805_R                         57.1700      12.7100      270      ÌùÆ¬µç×è                     
+R12         "1K¦¸ (1001) ¡À1%"        TopLayer    LC-0805_R                         57.1700      8.8100       270      ÌùÆ¬µç×è                     
+R10         "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         9.4900       13.8499      360      ÌùÆ¬µç×è                     
+R9          "4K7¦¸ (472) ¡À1%"        BottomLayer LC-0805_R                         54.1200      14.6900      270      ÌùÆ¬µç×è                     
+R8          "4K7¦¸ (472) ¡À1%"        BottomLayer LC-0805_R                         56.5700      14.6900      270      ÌùÆ¬µç×è                     
+R7          "10K¦¸ (1002) ¡À1%"       TopLayer    LC-0805_R                         8.5950       7.8349       270      ÌùÆ¬µç×è                     
+R6          "1K¦¸ (1001) ¡À1%"        TopLayer    LC-0805_R                         25.7125      14.3252      270      ÌùÆ¬µç×è                     
+R5          "20K¦¸ (223) ¡À1%"        TopLayer    LC-0805_R                         2.6100       24.4999      360      ÌùÆ¬µç×è                     
+R4          "1K¦¸ (1001) ¡À1%"        TopLayer    LC-0805_R                         30.3674      14.3252      270      ÌùÆ¬µç×è                     
+R3          "12K¦¸ (123) ¡À1%"        TopLayer    LC-0805_R                         6.5500       21.4599      90       ÌùÆ¬µç×è                     
+R2          "10K¦¸ (103) ¡À1%"        TopLayer    LC-0805_R                         43.0000      35.5000      270      ÌùÆ¬µç×è                     
+R1          "88K7¦¸ (88.7K) ¡À1%"     TopLayer    LC-0805_R                         8.9900       21.4599      270      ÌùÆ¬µç×è                     
+Q2          NPN_L                   TopLayer    SOT-23_S8050                      42.2240      8.4227       270      ""                       
+Q1          SI2301                  TopLayer    SOT23                             1.6840       7.8974       90       P¹µµÀ³¡Ð§Ó¦¹Ü                  
+LS1         Bell                    BottomLayer BELL                              39.4300      5.8000       180      "Electrical Bell"        
+L1          3.3uH                   TopLayer    IND-SMD_L4.6-W4.1                 2.4000       17.0499      360      Ð¡¹¦ÂÊÌùÆ¬µç¸Ð                  
+JP1         HDR-1X7                 BottomLayer HDR2.54-M-LI-7P                   28.5000      43.8500      180      7P½Ó²å¼þ                    
+J4          Motor2                  BottomLayer CONN-TH_1.25T-2A_1.25T-2A         24.2249      11.5000      180      jointbar                 
+J3          Motor1                  BottomLayer CONN-TH_1.25T-2A_1.25T-2A         32.8249      11.5000      180      jointbar                 
+J1          BAT                     BottomLayer XH2.54-LI-2P                      2.6770       12.2709      270      jointbar                 
+D11         ITR8307/S17/TR8(B)      TopLayer    OPTO-SMD_ITR8307-S17-TR8-B-BL     41.2610      49.5500      165      ""                       
+D10         ITR8307/S17/TR8(B)      TopLayer    OPTO-SMD_ITR8307-S17-TR8-B-BL     34.8010      51.4500      165      ""                       
+D9          ITR8307/S17/TR8(B)      TopLayer    OPTO-SMD_ITR8307-S17-TR8-B-BL     28.5910      52.9500      180      ""                       
+D8          ITR8307/S17/TR8(B)      TopLayer    OPTO-SMD_ITR8307-S17-TR8-B-BL     22.2510      51.4500      195      ""                       
+D7          ITR8307/S17/TR8(B)      TopLayer    OPTO-SMD_ITR8307-S17-TR8-B-BL     15.9510      49.5500      195      ""                       
+D6          LEDR                    TopLayer    LED0805G                          59.5200      12.8995      90       ""                       
+D5          LEDR                    TopLayer    LED0805G                          59.5200      8.6205       270      ""                       
+D4          SS34                    TopLayer    SMA                               5.5500       9.2499       90       Ð¤ÌØ»ù¶þ¼«¹Ü                   
+D3          LEDR                    TopLayer    LED0805G                          28.0051      14.0705      90       ""                       
+D2          LEDR                    TopLayer    LED0805G                          32.6600      14.0705      90       ""                       
+D1          SS34                    TopLayer    SMA                               9.2000       17.0499      360      Ð¤ÌØ»ù¶þ¼«¹Ü                   
+C31         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         13.8600      39.8779      0        ÌùÆ¬µçÈÝ                     
+C30         "22uF(226) 10% 50V"     TopLayer    CD_B(3528)                        19.8303      39.8779      180      ÌùÆ¬µçÈÝ                     
+C29         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         18.7951      35.0749      180      ÌùÆ¬µçÈÝ                     
+C28         22pF                    TopLayer    LC-0805_C                         33.3374      21.7032      270      Capacitor                
+C27         22pF                    TopLayer    LC-0805_C                         23.0374      21.7032      270      Capacitor                
+C25         10uF/16V                BottomLayer LC-0805_C                         34.9900      39.3500      360      "Electrolytic Capacitor" 
+C24         0.1uF                   BottomLayer LC-0805_C                         32.9400      26.2900      360      Capacitor                
+C23         0.1uF                   BottomLayer LC-0805_C                         24.4200      38.6600      90       Capacitor                
+C22         0.1uF                   BottomLayer LC-0805_C                         21.7900      28.2000      180      Capacitor                
+C21         0.1uF                   BottomLayer LC-0805_C                         34.9900      36.8800      360      Capacitor                
+C20         10P                     TopLayer    LC-0805_C                         39.9500      16.9500      180      ""                       
+C19         10P                     TopLayer    LC-0805_C                         39.9600      19.3500      180      ""                       
+C18         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         0.6744       3.6856       270      ÌùÆ¬µçÈÝ                     
+C17         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         48.2200      3.7000       270      ÌùÆ¬µçÈÝ                     
+C16         "100nF(104) 10% 50V"    BottomLayer LC-0805_C                         47.7800      8.2000       360      ÌùÆ¬µçÈÝ                     
+C15         "100nF(104) 10% 50V"    BottomLayer LC-0805_C                         51.7700      3.4600       270      ÌùÆ¬µçÈÝ                     
+C14         "2.2nF 10% 50V"         BottomLayer LC-0805_C                         51.6700      14.6900      90       ÌùÆ¬µçÈÝ                     
+C13         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         54.6360      12.7422      270      ÌùÆ¬µçÈÝ                     
+C12         "10uF(106) 10% 50V"     TopLayer    LC-0805_C                         52.1360      12.7422      270      ÌùÆ¬µçÈÝ                     
+C11         "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         54.6200      8.8100       270      ÌùÆ¬µçÈÝ                     
+C10         "10uF(106) 10% 50V"     TopLayer    LC-0805_C                         52.1200      8.8100       270      ÌùÆ¬µçÈÝ                     
+C9          "100nF(104) 10% 50V"    BottomLayer LC-0805_C                         56.8700      3.4500       270      ÌùÆ¬µçÈÝ                     
+C8          "10uF (106) 10% 25V"    TopLayer    LC-0805_C                         20.8100      14.3100      270      ÌùÆ¬µçÈÝ                     
+C7          "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         43.0001      31.5600      270      ÌùÆ¬µçÈÝ                     
+C6          "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         23.2600      14.3229      270      ÌùÆ¬µçÈÝ                     
+C5          "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         16.7000      19.9999      90       ÌùÆ¬µçÈÝ                     
+C4          "22uF (226) 5% 50V"     TopLayer    LC-0805_C                         14.2000      19.9999      270      ÌùÆ¬µçÈÝ                     
+C3          "22uF (226) 5% 50V"     TopLayer    LC-0805_C                         -0.7000      22.2899      270      ÌùÆ¬µçÈÝ                     
+C2          "100nF(104) 10% 50V"    TopLayer    LC-0805_C                         -3.1500      22.2899      90       ÌùÆ¬µçÈÝ                     
+C1          "100nF(104) 10% 50V"    BottomLayer LC-0805_C                         57.0100      22.0000      360      ÌùÆ¬µçÈÝ                     
